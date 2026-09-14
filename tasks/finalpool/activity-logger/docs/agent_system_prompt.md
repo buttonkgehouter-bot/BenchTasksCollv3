@@ -1,1 +1,4 @@
-You are an expert agent. Complete the task efficiently.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for activity-logger

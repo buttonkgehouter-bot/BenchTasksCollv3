@@ -1,3 +1,4 @@
-# Activity Logger Task
+# Task: activity-logger
 
-This task implements an activity logger that tracks user actions.
+## Description
+Complete the implementation for activity-logger
